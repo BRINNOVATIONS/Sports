@@ -15,3 +15,10 @@ https://alraqi-tv.com/id/Star1-Sports-en/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
 EXTINF:-1 tvg-id="” tvg-logo="" group-title="Willow HD", WillowHD
 https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+
+#EXTINF:-1, PRIME HIND 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae1abaaa3b050537aef6df0b3d32ad7f:bcec14c796465542ad450a43a605e71f
+EXTINF:-1 tvg-id="” tvg-logo="" group-title="Willow HD", WillowHD
+https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
